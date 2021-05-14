@@ -1,4 +1,4 @@
-module github.com/rangapv/golog
+module github.com/rangapv/golog1
 
 go 1.16
 

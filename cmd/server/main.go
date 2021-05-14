@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/rangapv/golog/internal/server"
+	"github.com/rangapv/golog1/internal/server"
 )
 
 func main() {
